@@ -6,7 +6,80 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="923dd099-b513-470f-8285-89ddaa015f48" name="Default Changelist" comment="" />
+    <list default="true" id="923dd099-b513-470f-8285-89ddaa015f48" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/AufgabenSommercamp_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/AufgabenSommercamp_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AufgabenSommercamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AufgabenSommercamp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/AufgabenSommercamp_jar/AufgabenSommercamp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/AufgabenSommercamp_jar/AufgabenSommercamp.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/AufgabenSommercamp_jar/Table.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/AufgabenSommercamp_jar/Table.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Aufgaben Sommercamp/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aufgaben Sommercamp/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AufgabenSommercamp/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AufgabenSommercamp/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AufgabenSommercamp/lws/training/a13/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AufgabenSommercamp/lws/training/a13/Fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a1/RunA1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a1/RunA1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a10/RunA10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a10/RunA10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a10/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a10/WeatherData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a11/Body.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a11/Body.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a11/Geometry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a11/Geometry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a11/RunA11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a11/RunA11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a11/UserSelectBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a11/UserSelectBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a12/RunA12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a12/RunA12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a12/Year.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a12/Year.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a13/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a13/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a13/FibonacciPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a13/FibonacciPosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a13/RunA13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a13/RunA13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a14/NumberConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a14/NumberConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a14/NumberType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a14/NumberType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a14/RunA14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a14/RunA14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a14/UserConverterMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a14/UserConverterMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a15/RunA15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a15/RunA15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a15/Text.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a15/Text.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a16/RunA16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a16/RunA16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a16/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a16/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a17/CäsarChiffre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a17/CäsarChiffre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a17/CäsarChiffreUnicode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a17/CäsarChiffreUnicode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a17/RunA17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a17/RunA17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a18/Rennen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a18/Rennen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a18/Rennschnecke.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a18/Rennschnecke.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a18/RunA18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a18/RunA18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a18/Wettbüro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a18/Wettbüro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a18/Wette.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a18/Wette.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a19/BrainfuckInterpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a19/BrainfuckInterpreter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a19/RunA19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a19/RunA19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a2/ExampleCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a2/ExampleCalculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a2/RunA2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a2/RunA2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a2/ShowResults.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a2/ShowResults.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a2/StoreVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a2/StoreVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a3/Cowsay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a3/Cowsay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a3/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a3/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a3/RunA3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a3/RunA3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a4/Gender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a4/Gender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a4/RunA4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a4/RunA4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a4/UserData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a4/UserData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a5/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a5/Article.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a5/ReceipGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a5/ReceipGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a5/RunA5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a5/RunA5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a5/UserInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a5/UserInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a6/RunA6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a6/RunA6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a6/luckgame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a6/luckgame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a7/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a7/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a7/PlayerNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a7/PlayerNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a7/RunA7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a7/RunA7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a7/Winner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a7/Winner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a8/RunA8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a8/RunA8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a8/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a8/Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a9/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a9/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/a9/RunA9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/a9/RunA9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/aown1/MsgLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/aown1/MsgLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/start/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/start/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lws/training/start/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lws/training/start/Time.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,93 +87,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="319974417">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="123" />
-          <entry key="java" value="11241" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="11241" />
-          <entry key="PLAIN_TEXT" value="123" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="58" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="58" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="1900789074">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="14" />
-          <entry key="project.open.time.0" value="4" />
-          <entry key="project.open.time.1" value="3" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.14" value="2" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="14" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="68" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="68" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="5" />
-          <entry key="java" value="13601" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="13601" />
-          <entry key="PLAIN_TEXT" value="5" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lws/training/start/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lws/training/a13/Fibonacci.java">
+        <entry file="file://$PROJECT_DIR$/src/lws/training/a8/Table.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+            <state relative-caret-position="195">
+              <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -115,6 +108,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -173,10 +169,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1" />
-    <option name="width" value="1602" />
-    <option name="height" value="865" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="width" value="1600" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -203,6 +198,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -226,33 +222,54 @@
               <item name="Aufgben-Sommercamp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="a8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aufgben-Sommercamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aufgben-Sommercamp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="a9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aufgben-Sommercamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aufgben-Sommercamp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="a10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aufgben-Sommercamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aufgben-Sommercamp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="a11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aufgben-Sommercamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aufgben-Sommercamp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="a12" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aufgben-Sommercamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aufgben-Sommercamp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
               <item name="a13" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Aufgben-Sommercamp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Aufgben-Sommercamp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="training" type="462c0819:PsiDirectoryNode" />
-              <item name="aown1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Aufgben-Sommercamp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Aufgben-Sommercamp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="training" type="462c0819:PsiDirectoryNode" />
-              <item name="start" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539952620031" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CitybuildClassic" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543909087752" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -325,18 +342,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="0" width="1602" height="865" extended-state="6" />
+    <frame x="-4" y="0" width="1608" height="868" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15315315" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19433719" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49877602" weight="0.32925472" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.88847387" weight="0.20896946" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.88847387" weight="0.21496598" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4994664" weight="0.39942804" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -345,6 +363,10 @@
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053364" side_tool="true" weight="0.39942804" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32925472" />
+      <window_info anchor="bottom" id="FTP" order="11" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="RestServices" />
+      <window_info anchor="right" id="Google Cloud Storage" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -382,9 +404,6 @@
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
     </layout-to-restore>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/lws/training/a5/ReceipGenerator.java">
@@ -460,34 +479,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lws/training/aown1/FileWriter.java" />
     <entry file="file://$PROJECT_DIR$/src/lws/training/a8/TableSize.java" />
-    <entry file="file://$PROJECT_DIR$/src/lws/training/a8/Table.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lws/training/a8/RunA8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lws/training/a9/RunA9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lws/training/a9/PrimeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lws/training/a10/RunA10.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -686,17 +677,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lws/training/a13/RunA13.java">
+    <entry file="file://$PROJECT_DIR$/src/lws/training/a8/RunA8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lws/training/a13/FibonacciPosition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -707,10 +691,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/lws/training/a9/PrimeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lws/training/a9/RunA9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/lws/training/a13/Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        <state relative-caret-position="285">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lws/training/a13/FibonacciPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lws/training/a13/RunA13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lws/training/a8/Table.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
         </state>
       </provider>
     </entry>
